@@ -2,9 +2,8 @@
 ​---
 title: 计算机网络
 date: 2024-08-09 13:50:00 +0800
-description: java start process
-categories: [java]
-tags: [process]
+categories: [Animal, Insect]
+tags: [bee]
 ​---
 ---
 
