@@ -1,10 +1,8 @@
 ---
-​---
 title: 计算机网络
 date: 2024-08-09 13:50:00 +0800
-categories: Animal, Insect
-tags: bee
-​---
+categories: [java]
+tags: [process]
 ---
 
 # java 启动进程
